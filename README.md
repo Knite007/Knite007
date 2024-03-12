@@ -5,4 +5,3 @@
 <p>My profiles:</p>
 <p><a href="https://www.linkedin.com/in/balu-seeman-b3a32a155/">Linkedin</a></p>
 <p><a href="https://www.datacamp.com/portfolio/seeman098">Datacamp</a></p>
-<h3 id="hi-there-👋">Hi there 👋</h3>
