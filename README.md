@@ -3,8 +3,5 @@
 <p>I Studied Civil Engineering</p>
 <p>Aspiring Analytics Enthusiast.</p>
 <p>My profiles:</p>
-<p><img width="4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVlinkedin.com/in/balu-seeman-b3a32a155/">Linkedin</a></p>
-<p><a href="datacamp.com/portfolio/seeman098">Datacamp</a></p>
-
-
-
+<p><a href="https://www.linkedin.com/in/balu-seeman-b3a32a155/">Linkedin</a></p>
+<p><a href="https://www.datacamp.com/portfolio/seeman098">Datacamp</a></p>
